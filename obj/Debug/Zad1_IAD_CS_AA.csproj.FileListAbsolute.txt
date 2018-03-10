@@ -1,0 +1,33 @@
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe.config
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.csprojResolveAssemblyReference.cache
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.dll
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.xml
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Studia_Informatyka\sem_IVa\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe.config
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.dll
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.xml
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.csprojResolveAssemblyReference.cache
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna analiza danych\Laboratorium\Zadanie 1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe.config
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.dll
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.xml
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.csprojResolveAssemblyReference.cache
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Dysk_Google\sem_aktualny\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe.config
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\Zad1_IAD_CS_AA.pdb
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.dll
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\bin\Debug\MathNet.Numerics.xml
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.csprojResolveAssemblyReference.cache
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.csproj.CoreCompileInputs.cache
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.exe
+D:\Ala\Studia_Informatyka\sem_IV_2\Inteligentna_analiza_danych\Laboratorium\Zadanie_1\program\Zad1_IAD_CS_AA\Zad1_IAD_CS_AA\obj\Debug\Zad1_IAD_CS_AA.pdb
